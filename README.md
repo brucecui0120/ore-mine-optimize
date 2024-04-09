@@ -1,5 +1,7 @@
 # ORE mine optimize
 
+[ORE website](https://ore.supply)
+
 ### use less fee to mine ORE!(Just for MAC M1,M2)
 
 ### ORE mining optimized version, reducing a large number of unnecessary requests, optimizing the transaction confirmation algorithm, mining with the lowest fee to realize mining, mining once earns once, on average mining once within 5 minutes, depending on the computer performance.
