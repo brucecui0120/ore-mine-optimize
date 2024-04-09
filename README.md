@@ -10,6 +10,8 @@
 
 #### mybe receiver address need mint ORE before.
 
+#### If the ORE value exceeds 0.001, an attempt will be made to send it to the receiver address.
+
 #### some time it will has some tx failed,but it's ok because our fee is cheap!!
 
 ### note: if you see some error like `RpcError`, it'ok. but If you see all the time,and can not mint any ORE, you should set a new RPC url.
